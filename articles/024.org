@@ -32,7 +32,9 @@
 
   <br>
   <br>
-  [[https://github.com/jamcha-aa/SCP/blob/master/README.md][Back to Table of Contents]]
+
+  [[https://github.com/jamcha-aa/SCP/blob/master/README.md][目次へ戻る]]
+
   <br>
   <br>
   この文章はフィクションであり，実在の人物・団体とは一切関係ありません。
