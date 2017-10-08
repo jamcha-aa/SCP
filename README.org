@@ -3,6 +3,7 @@
 
 * SCP風オブジェクト集
   - [[https://github.com/jamcha-aa/SCP/blob/master/articles/024.md][SCP-L-024]] - The Glasses
+  - [[https://github.com/jamcha-aa/SCP/blob/master/articles/1729.md][SCP0L-1729]] - The lower half
 
 ** License
   Copyright (c) 2017 jamcha (jamcha.aa@gmail.com).
