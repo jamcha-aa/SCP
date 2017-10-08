@@ -41,7 +41,7 @@
 
   Copyright (c) 2017 jamcha (jamcha.aa@gmail.com).
 
-  This document is under a [[http://creativecommons.org/licenses/by-sa/4.0/deed][License Creative Commons Attribution Share Alike 4.0 International]]
+  This document is licensed under the [[http://creativecommons.org/licenses/by-sa/4.0/deed][Creative Commons Attribution Share Alike 4.0 International License]]
 
   [[http://creativecommons.org/licenses/by-sa/4.0/deed][file:http://i.creativecommons.org/l/by-sa/3.0/80x15.png]]
 
