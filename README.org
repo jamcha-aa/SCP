@@ -3,8 +3,8 @@
 
 * SCP風オブジェクト集
   - [[https://github.com/jamcha-aa/SCP/blob/master/articles/024.md][SCP-L-024]] - The Glasses
-  - [[https://github.com/jamcha-aa/SCP/blob/master/articles/1729.md][SCP0L-1729]] - The lower half
-  - [[https://github.com/jamcha-aa/SCP/blob/master/articles/1984.md][SCP0L-1984]] - The Mist
+  - [[https://github.com/jamcha-aa/SCP/blob/master/articles/1729.md][SCP-L-1729]] - The lower half
+  - [[https://github.com/jamcha-aa/SCP/blob/master/articles/1984.md][SCP-L-1984]] - The Mist
 
 ** License
   Copyright (c) 2017 jamcha (jamcha.aa@gmail.com).
