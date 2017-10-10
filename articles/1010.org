@@ -1,0 +1,37 @@
+#+OPTIONS: toc:nil
+#+OPTIONS: \n:t
+
+* SCP-L-1010
+
+  *アイテム番号*: SCP-L-1010
+
+  <br>
+
+  *オブジェクトクラス*: Safe
+
+  <br>
+
+  *特別収容プロトコル*: 収音性・および気密性の高い容器に保管してください。
+
+  <br>
+
+  *説明*: SCP-L-1010は簡易トイレです。通常の手続きでSCP-L-1010を使用した場合，投下された2リットル以下の汚物は内部で高熱処理され，無臭の粉末になります。この粉末を処分すれば，繰り返し使用することが可能です。
+
+  周囲の音が30デシベルを下回ると，SCP-L-1010は使用者が発生させた排泄音を140デシベルの音圧で再生します。この音は周囲の音が30デシベルを上回るまで繰り返し再生されます。
+
+  
+  <br>
+  <br>
+  
+  [[https://github.com/jamcha-aa/SCP/blob/master/README.md][目次へ戻る]]
+  
+  <br>
+  <br>
+  この文章はフィクションであり，実在の人物・団体とは一切関係ありません。
+
+  Copyright (c) 2017 jamcha (jamcha.aa@gmail.com).
+
+  This document is licensed under the [[http://creativecommons.org/licenses/by-sa/4.0/deed][Creative Commons Attribution Share Alike 4.0 International License]]
+
+  [[http://creativecommons.org/licenses/by-sa/4.0/deed][file:http://i.creativecommons.org/l/by-sa/3.0/80x15.png]]
+
