@@ -2,6 +2,7 @@
 
 -   [SCP-L-024](https://github.com/jamcha-aa/SCP/blob/master/articles/024.md) - The Glasses
 -   [SCP0L-1729](https://github.com/jamcha-aa/SCP/blob/master/articles/1729.md) - The lower half
+-   [SCP0L-1984](https://github.com/jamcha-aa/SCP/blob/master/articles/1984.md) - The Mist
 
 ## License
 
