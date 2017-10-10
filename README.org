@@ -3,6 +3,7 @@
 
 * SCP風オブジェクト集
   - [[https://github.com/jamcha-aa/SCP/blob/master/articles/024.md][SCP-L-024]] - The Glasses
+  - [[https://github.com/jamcha-aa/SCP/blob/master/articles/369.md][SCP-L-369]] - Sleeping Beauty
   - [[https://github.com/jamcha-aa/SCP/blob/master/articles/1010.md][SCP-L-1010]] - The Toilet
   - [[https://github.com/jamcha-aa/SCP/blob/master/articles/1729.md][SCP-L-1729]] - The lower half
   - [[https://github.com/jamcha-aa/SCP/blob/master/articles/1984.md][SCP-L-1984]] - The Mist
