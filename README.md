@@ -2,6 +2,7 @@
 
 -   [SCP-L-024](https://github.com/jamcha-aa/SCP/blob/master/articles/024.md) - The Glasses
 -   [SCP-L-369](https://github.com/jamcha-aa/SCP/blob/master/articles/369.md) - Sleeping Beauty
+-   [SCP-L-954](https://github.com/jamcha-aa/SCP/blob/master/articles/954.md) - The Neglected Broadcasting
 -   [SCP-L-1010](https://github.com/jamcha-aa/SCP/blob/master/articles/1010.md) - The Toilet
 -   [SCP-L-1729](https://github.com/jamcha-aa/SCP/blob/master/articles/1729.md) - The lower half
 -   [SCP-L-1984](https://github.com/jamcha-aa/SCP/blob/master/articles/1984.md) - The Mist
