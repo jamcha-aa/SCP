@@ -1,6 +1,7 @@
 # SCP風オブジェクト集
 
 -   [SCP-L-024](https://github.com/jamcha-aa/SCP/blob/master/articles/024.md) - The Glasses
+-   [SCP-L-066](https://github.com/jamcha-aa/SCP/blob/master/articles/066.md) - Juicy Kelp
 -   [SCP-L-180](https://github.com/jamcha-aa/SCP/blob/master/articles/180.md) - The Flipped Shoes
 -   [SCP-L-263](https://github.com/jamcha-aa/SCP/blob/master/articles/263.md) - The Smile
 -   [SCP-L-369](https://github.com/jamcha-aa/SCP/blob/master/articles/369.md) - Sleeping Beauty
