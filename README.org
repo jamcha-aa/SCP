@@ -4,6 +4,7 @@
 * SCP風オブジェクト集
   - [[https://github.com/jamcha-aa/SCP/blob/master/articles/024.md][SCP-L-024]] - The Glasses
   - [[https://github.com/jamcha-aa/SCP/blob/master/articles/180.md][SCP-L-180]] - The Flipped Shoes
+  - [[https://github.com/jamcha-aa/SCP/blob/master/articles/263.md][SCP-L-263]] - The Smile
   - [[https://github.com/jamcha-aa/SCP/blob/master/articles/369.md][SCP-L-369]] - Sleeping Beauty
   - [[https://github.com/jamcha-aa/SCP/blob/master/articles/954.md][SCP-L-954]] - The Neglected Broadcasting
   - [[https://github.com/jamcha-aa/SCP/blob/master/articles/1010.md][SCP-L-1010]] - The Toilet

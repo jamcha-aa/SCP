@@ -2,6 +2,7 @@
 
 -   [SCP-L-024](https://github.com/jamcha-aa/SCP/blob/master/articles/024.md) - The Glasses
 -   [SCP-L-180](https://github.com/jamcha-aa/SCP/blob/master/articles/180.md) - The Flipped Shoes
+-   [SCP-L-263](https://github.com/jamcha-aa/SCP/blob/master/articles/263.md) - The Smile
 -   [SCP-L-369](https://github.com/jamcha-aa/SCP/blob/master/articles/369.md) - Sleeping Beauty
 -   [SCP-L-954](https://github.com/jamcha-aa/SCP/blob/master/articles/954.md) - The Neglected Broadcasting
 -   [SCP-L-1010](https://github.com/jamcha-aa/SCP/blob/master/articles/1010.md) - The Toilet
