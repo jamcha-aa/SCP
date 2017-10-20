@@ -1,0 +1,36 @@
+#+OPTIONS: toc:nil
+#+OPTIONS: \n:t
+
+* SCP-L-180
+
+  *アイテム番号*: SCP-L-180
+
+  <br>
+
+  *オブジェクトクラス*: Euclid
+
+  <br>
+
+  *特別収容プロトコル*: 収容した箱に「禁帯出」のラベルを貼り，施錠設備のついた倉庫で保管してください。
+
+  <br>
+
+  *説明*: SCP-L-180は████社が製造していたスポーツシューズです。この靴を両足に身につけると，天井にぶらさげられたかのような不快感が生じます。長時間装着していると頭部への鬱血による失神，もしくはそれ以上の障害をきたすおそれがあり，危険です。████社は債務超過により本製品の出荷直後に業務停止，工場を閉鎖したため，SCP-L-180がどのように製造されたか判明していません。
+
+  SCP-L-180は5000足出荷され，回収率は20%です。
+  
+  <br>
+  <br>
+  
+  [[https://github.com/jamcha-aa/SCP/blob/master/README.md][目次へ戻る]]
+  
+  <br>
+  <br>
+  この文章はフィクションであり，実在の人物・団体とは一切関係ありません。
+
+  Copyright (c) 2017 jamcha (jamcha.aa@gmail.com).
+
+  This document is licensed under the [[http://creativecommons.org/licenses/by-sa/4.0/deed][Creative Commons Attribution Share Alike 4.0 International License]]
+
+  [[http://creativecommons.org/licenses/by-sa/4.0/deed][file:http://i.creativecommons.org/l/by-sa/3.0/80x15.png]]
+
