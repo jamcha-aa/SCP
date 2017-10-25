@@ -1,12 +1,13 @@
 # SCP風オブジェクト集
 
--   [SCP-L-024](https://github.com/jamcha-aa/SCP/blob/master/articles/024.md) - The Glasses
+-   [SCP-L-024](https://github.com/jamcha-aa/SCP/blob/master/articles/024.md) - Glasses
+-   [SCP-L-061](https://github.com/jamcha-aa/SCP/blob/master/articles/061.md) - Mosquito
 -   [SCP-L-066](https://github.com/jamcha-aa/SCP/blob/master/articles/066.md) - Juicy Kelp
--   [SCP-L-180](https://github.com/jamcha-aa/SCP/blob/master/articles/180.md) - The Flipped Shoes
+-   [SCP-L-180](https://github.com/jamcha-aa/SCP/blob/master/articles/180.md) - Flipped Shoes
 -   [SCP-L-263](https://github.com/jamcha-aa/SCP/blob/master/articles/263.md) - The Smile
 -   [SCP-L-369](https://github.com/jamcha-aa/SCP/blob/master/articles/369.md) - Sleeping Beauty
--   [SCP-L-954](https://github.com/jamcha-aa/SCP/blob/master/articles/954.md) - The Neglected Broadcasting
--   [SCP-L-1010](https://github.com/jamcha-aa/SCP/blob/master/articles/1010.md) - The Toilet
+-   [SCP-L-954](https://github.com/jamcha-aa/SCP/blob/master/articles/954.md) - Neglected Broadcasting
+-   [SCP-L-1010](https://github.com/jamcha-aa/SCP/blob/master/articles/1010.md) - Toilet
 -   [SCP-L-1729](https://github.com/jamcha-aa/SCP/blob/master/articles/1729.md) - The lower half
 -   [SCP-L-1984](https://github.com/jamcha-aa/SCP/blob/master/articles/1984.md) - The Mist
 
