@@ -1,5 +1,6 @@
 # SCP風オブジェクト集
 
+-   [SCP-L-011](https://github.com/jamcha-aa/SCP/blob/master/articles/011.md) - Gel
 -   [SCP-L-024](https://github.com/jamcha-aa/SCP/blob/master/articles/024.md) - Glasses
 -   [SCP-L-061](https://github.com/jamcha-aa/SCP/blob/master/articles/061.md) - Mosquito
 -   [SCP-L-066](https://github.com/jamcha-aa/SCP/blob/master/articles/066.md) - Juicy Kelp

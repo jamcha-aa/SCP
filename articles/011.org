@@ -1,0 +1,40 @@
+#+OPTIONS: toc:nil
+#+OPTIONS: \n:t
+
+* SCP-L-011
+
+  *アイテム番号*: SCP-L-011
+
+  <br>
+
+  *オブジェクトクラス*: Safe
+
+  <br>
+
+  *特別収容プロトコル*: 対象は水道局に管理されています。団体への連絡があった際，担当の職員は必ずプロテインスーツを着用してから現場に向かってください。
+
+  <br>
+
+  *説明*: SCP-L-011は粘菌の一種で，炭酸カルシウムを生成する特性を持ちます。SCP-L-011を下水道の壁に使用することで，各自治体が整備にかける予算は大幅に削減されました。
+
+  SCP-L-011はタンパク質とカルシウムを必要とします。SCP-L-011の状態を把握するため，下水道の各所にはイオン濃度センサーが取りつけられています。センサーが反応したときは，付近のマンホールから粉末を投下することでその成分を補うことができ，通常，この作業は水道局の職員が行います。
+
+  水道事業を営む████社はコストカットのためセンサーを取りつけず，粉末の補給も不足していました。その後，住民の大量失踪事件の原因がSCP-L-011であることが判明しました。この事故以来SCP-L-011の危険性が指摘されているものの，費用の問題から，撤去する予定はありません。
+
+
+  
+  <br>
+  <br>
+  
+  [[https://github.com/jamcha-aa/SCP/blob/master/README.md][目次へ戻る]]
+  
+  <br>
+  <br>
+  この文章はフィクションであり，実在の人物・団体とは一切関係ありません。
+
+  Copyright (c) 2017 jamcha (jamcha.aa@gmail.com).
+
+  This document is licensed under the [[http://creativecommons.org/licenses/by-sa/4.0/deed][Creative Commons Attribution Share Alike 4.0 International License]]
+
+  [[http://creativecommons.org/licenses/by-sa/4.0/deed][file:http://i.creativecommons.org/l/by-sa/3.0/80x15.png]]
+
