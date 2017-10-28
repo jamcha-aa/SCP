@@ -6,6 +6,7 @@
   - [[https://github.com/jamcha-aa/SCP/blob/master/articles/024.md][SCP-L-024]] - Glasses
   - [[https://github.com/jamcha-aa/SCP/blob/master/articles/061.md][SCP-L-061]] - Mosquito
   - [[https://github.com/jamcha-aa/SCP/blob/master/articles/066.md][SCP-L-066]] - Juicy Kelp
+  - [[https://github.com/jamcha-aa/SCP/blob/master/articles/130.md][SCP-L-130]] - Unplugged Word
   - [[https://github.com/jamcha-aa/SCP/blob/master/articles/180.md][SCP-L-180]] - Flipped Shoes
   - [[https://github.com/jamcha-aa/SCP/blob/master/articles/263.md][SCP-L-263]] - The Smile
   - [[https://github.com/jamcha-aa/SCP/blob/master/articles/369.md][SCP-L-369]] - Sleeping Beauty
