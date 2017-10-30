@@ -2,7 +2,7 @@
 
 # SCP風オブジェクト集
 
--   [SCP-L-005](https://github.com/jamcha-aa/SCP/blob/master/articles/005.md) - Wall
+-   [SCP-L-005](https://github.com/jamcha-aa/SCP/blob/master/articles/005.md) - Crash
 -   [SCP-L-011](https://github.com/jamcha-aa/SCP/blob/master/articles/011.md) - Gel
 -   [SCP-L-024](https://github.com/jamcha-aa/SCP/blob/master/articles/024.md) - Glasses
 -   [SCP-L-061](https://github.com/jamcha-aa/SCP/blob/master/articles/061.md) - Mosquito
