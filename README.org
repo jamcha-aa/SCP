@@ -9,6 +9,7 @@
   - [[https://github.com/jamcha-aa/SCP/blob/master/articles/066.md][SCP-L-066]] - Juicy Kelp
   - [[https://github.com/jamcha-aa/SCP/blob/master/articles/130.md][SCP-L-130]] - Unplugged Word
   - [[https://github.com/jamcha-aa/SCP/blob/master/articles/180.md][SCP-L-180]] - Flipped Shoes
+  - [[https://github.com/jamcha-aa/SCP/blob/master/articles/250.md][SCP-L-250]] - Wizard's Gramophone
   - [[https://github.com/jamcha-aa/SCP/blob/master/articles/263.md][SCP-L-263]] - The Smile
   - [[https://github.com/jamcha-aa/SCP/blob/master/articles/369.md][SCP-L-369]] - Sleeping Beauty
   - [[https://github.com/jamcha-aa/SCP/blob/master/articles/954.md][SCP-L-954]] - Neglected Broadcasting
