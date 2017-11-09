@@ -3,6 +3,7 @@
 -   [SCP-L-005](https://github.com/jamcha-aa/SCP/blob/master/articles/005.md) - Crash
 -   [SCP-L-011](https://github.com/jamcha-aa/SCP/blob/master/articles/011.md) - Gel
 -   [SCP-L-024](https://github.com/jamcha-aa/SCP/blob/master/articles/024.md) - Glasses
+-   [SCP-L-044](https://github.com/jamcha-aa/SCP/blob/master/articles/044.md) - Nasty Snail
 -   [SCP-L-061](https://github.com/jamcha-aa/SCP/blob/master/articles/061.md) - Mosquito
 -   [SCP-L-065](https://github.com/jamcha-aa/SCP/blob/master/articles/065.md) - ECMeat
 -   [SCP-L-066](https://github.com/jamcha-aa/SCP/blob/master/articles/066.md) - Juicy Kelp
