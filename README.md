@@ -13,6 +13,7 @@
 -   [SCP-L-263](https://github.com/jamcha-aa/SCP/blob/master/articles/263.md) - The Smile
 -   [SCP-L-310](https://github.com/jamcha-aa/SCP/blob/master/articles/310.md) - Bankrupt
 -   [SCP-L-369](https://github.com/jamcha-aa/SCP/blob/master/articles/369.md) - Sleeping Beauty
+-   [SCP-L-704](https://github.com/jamcha-aa/SCP/blob/master/articles/704.md) - Flying Chili Pepper
 -   [SCP-L-954](https://github.com/jamcha-aa/SCP/blob/master/articles/954.md) - Neglected Broadcasting
 -   [SCP-L-1001](https://github.com/jamcha-aa/SCP/blob/master/articles/1001.md) - Towel
 -   [SCP-L-1010](https://github.com/jamcha-aa/SCP/blob/master/articles/1010.md) - Toilet
