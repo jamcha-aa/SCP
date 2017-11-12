@@ -3,6 +3,7 @@
 -   [SCP-L-005](https://github.com/jamcha-aa/SCP/blob/master/articles/005.md) - Crash
 -   [SCP-L-011](https://github.com/jamcha-aa/SCP/blob/master/articles/011.md) - Gel
 -   [SCP-L-024](https://github.com/jamcha-aa/SCP/blob/master/articles/024.md) - Glasses
+-   [SCP-L-036](https://github.com/jamcha-aa/SCP/blob/master/articles/036.md) - Milk Can
 -   [SCP-L-044](https://github.com/jamcha-aa/SCP/blob/master/articles/044.md) - Nasty Snail
 -   [SCP-L-061](https://github.com/jamcha-aa/SCP/blob/master/articles/061.md) - Mosquito
 -   [SCP-L-065](https://github.com/jamcha-aa/SCP/blob/master/articles/065.md) - ECMeat
@@ -26,4 +27,4 @@ Copyright (c) 2017 jamcha (jamcha.aa@gmail.com).
 
 All documents in this repository by jamcha are licensed under the [License Creative Commons Attribution Share Alike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/deed)  
 
-[![img](http://i.creativecommons.org/l/by-sa/3.0/80x15.png)](http://creativecommons.org/licenses/by-sa/4.0/deed)
+[![img](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/deed)
