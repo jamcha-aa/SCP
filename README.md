@@ -1,3 +1,5 @@
+
+
 # SCP風オブジェクト集
 
 -   [SCP-L-005](https://github.com/jamcha-aa/SCP/blob/master/articles/005.md) - Crash
@@ -14,6 +16,7 @@
 -   [SCP-L-263](https://github.com/jamcha-aa/SCP/blob/master/articles/263.md) - The Smile
 -   [SCP-L-310](https://github.com/jamcha-aa/SCP/blob/master/articles/310.md) - Bankrupt
 -   [SCP-L-369](https://github.com/jamcha-aa/SCP/blob/master/articles/369.md) - Sleeping Beauty
+-   [SCP-L-700](https://github.com/jamcha-aa/SCP/blob/master/articles/700.md) - Fixed Snooze
 -   [SCP-L-704](https://github.com/jamcha-aa/SCP/blob/master/articles/704.md) - Flying Chili Pepper
 -   [SCP-L-954](https://github.com/jamcha-aa/SCP/blob/master/articles/954.md) - Neglected Broadcasting
 -   [SCP-L-1001](https://github.com/jamcha-aa/SCP/blob/master/articles/1001.md) - Towel
@@ -21,10 +24,12 @@
 -   [SCP-L-1729](https://github.com/jamcha-aa/SCP/blob/master/articles/1729.md) - The lower half
 -   [SCP-L-1984](https://github.com/jamcha-aa/SCP/blob/master/articles/1984.md) - The Mist
 
+
 ## License
 
 Copyright (c) 2017 jamcha (jamcha.aa@gmail.com).  
 
 All documents in this repository by jamcha are licensed under the [License Creative Commons Attribution Share Alike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/deed)  
 
-[![img](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/deed)
+[![img](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/deed)  
+
