@@ -18,6 +18,7 @@
   - [[https://github.com/jamcha-aa/SCP/blob/master/articles/369.md][SCP-L-369]] - Sleeping Beauty
   - [[https://github.com/jamcha-aa/SCP/blob/master/articles/700.md][SCP-L-700]] - Fixed Snooze
   - [[https://github.com/jamcha-aa/SCP/blob/master/articles/704.md][SCP-L-704]] - Flying Chili Pepper
+  - [[https://github.com/jamcha-aa/SCP/blob/master/articles/777.md][SCP-L-777]] - Give me it with a .zip
   - [[https://github.com/jamcha-aa/SCP/blob/master/articles/954.md][SCP-L-954]] - Neglected Broadcasting
   - [[https://github.com/jamcha-aa/SCP/blob/master/articles/1001.md][SCP-L-1001]] - Towel
   - [[https://github.com/jamcha-aa/SCP/blob/master/articles/1010.md][SCP-L-1010]] - Toilet
