@@ -14,6 +14,7 @@
 -   [SCP-L-263](https://github.com/jamcha-aa/SCP/blob/master/articles/263.md) - The Smile
 -   [SCP-L-310](https://github.com/jamcha-aa/SCP/blob/master/articles/310.md) - Bankrupt
 -   [SCP-L-369](https://github.com/jamcha-aa/SCP/blob/master/articles/369.md) - Sleeping Beauty
+-   [SCP-L-403](https://github.com/jamcha-aa/SCP/blob/master/articles/403.md) - Not Illegal Murder
 -   [SCP-L-700](https://github.com/jamcha-aa/SCP/blob/master/articles/700.md) - Fixed Snooze
 -   [SCP-L-704](https://github.com/jamcha-aa/SCP/blob/master/articles/704.md) - Flying Chili Pepper
 -   [SCP-L-777](https://github.com/jamcha-aa/SCP/blob/master/articles/777.md) - Give me it with a .zip
