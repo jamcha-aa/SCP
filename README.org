@@ -11,6 +11,7 @@
   - [[https://github.com/jamcha-aa/SCP/blob/master/articles/065.md][SCP-L-065]] - ECMeat
   - [[https://github.com/jamcha-aa/SCP/blob/master/articles/066.md][SCP-L-066]] - Juicy Kelp
   - [[https://github.com/jamcha-aa/SCP/blob/master/articles/090.md][SCP-L-090]] - Intrepid Daikon
+  - [[https://github.com/jamcha-aa/SCP/blob/master/articles/098.md][SCP-L-098]] - Pee-C
   - [[https://github.com/jamcha-aa/SCP/blob/master/articles/100.md][SCP-L-100]] - Oden
   - [[https://github.com/jamcha-aa/SCP/blob/master/articles/130.md][SCP-L-130]] - Unplugged Word
   - [[https://github.com/jamcha-aa/SCP/blob/master/articles/180.md][SCP-L-180]] - Flipped Shoes

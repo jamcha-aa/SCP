@@ -1,3 +1,5 @@
+
+
 # SCP風オブジェクト集
 
 -   [SCP-L-005](https://github.com/jamcha-aa/SCP/blob/master/articles/005.md) - Crash
@@ -9,6 +11,7 @@
 -   [SCP-L-065](https://github.com/jamcha-aa/SCP/blob/master/articles/065.md) - ECMeat
 -   [SCP-L-066](https://github.com/jamcha-aa/SCP/blob/master/articles/066.md) - Juicy Kelp
 -   [SCP-L-090](https://github.com/jamcha-aa/SCP/blob/master/articles/090.md) - Intrepid Daikon
+-   [SCP-L-098](https://github.com/jamcha-aa/SCP/blob/master/articles/098.md) - Pee-C
 -   [SCP-L-100](https://github.com/jamcha-aa/SCP/blob/master/articles/100.md) - Oden
 -   [SCP-L-130](https://github.com/jamcha-aa/SCP/blob/master/articles/130.md) - Unplugged Word
 -   [SCP-L-180](https://github.com/jamcha-aa/SCP/blob/master/articles/180.md) - Flipped Shoes
@@ -27,10 +30,12 @@
 -   [SCP-L-1984](https://github.com/jamcha-aa/SCP/blob/master/articles/1984.md) - The Mist
 -   [SCP-L-2000](https://github.com/jamcha-aa/SCP/blob/master/articles/2000.md) - Door
 
+
 ## License
 
 Copyright (c) 2017 jamcha (jamcha.aa@gmail.com).  
 
 All documents in this repository by jamcha are licensed under the [License Creative Commons Attribution Share Alike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/deed)  
 
-[![img](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/deed)
+[![img](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/deed)  
+
