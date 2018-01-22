@@ -2,33 +2,8 @@
 #+OPTIONS: \n:t
 
 * SCP風オブジェクト集
-  - [[https://github.com/jamcha-aa/SCP/blob/master/articles/005.md][SCP-L-005]] - Crash
-  - [[https://github.com/jamcha-aa/SCP/blob/master/articles/011.md][SCP-L-011]] - Gel
-  - [[https://github.com/jamcha-aa/SCP/blob/master/articles/024.md][SCP-L-024]] - Glasses
-  - [[https://github.com/jamcha-aa/SCP/blob/master/articles/036.md][SCP-L-036]] - Milk Can
-  - [[https://github.com/jamcha-aa/SCP/blob/master/articles/044.md][SCP-L-044]] - Nasty Snail
-  - [[https://github.com/jamcha-aa/SCP/blob/master/articles/061.md][SCP-L-061]] - Mosquito
-  - [[https://github.com/jamcha-aa/SCP/blob/master/articles/065.md][SCP-L-065]] - ECMeat
-  - [[https://github.com/jamcha-aa/SCP/blob/master/articles/066.md][SCP-L-066]] - Juicy Kelp
-  - [[https://github.com/jamcha-aa/SCP/blob/master/articles/090.md][SCP-L-090]] - Intrepid Daikon
-  - [[https://github.com/jamcha-aa/SCP/blob/master/articles/098.md][SCP-L-098]] - Pee-C
-  - [[https://github.com/jamcha-aa/SCP/blob/master/articles/100.md][SCP-L-100]] - Oden
-  - [[https://github.com/jamcha-aa/SCP/blob/master/articles/130.md][SCP-L-130]] - Unplugged Word
-  - [[https://github.com/jamcha-aa/SCP/blob/master/articles/180.md][SCP-L-180]] - Flipped Shoes
-  - [[https://github.com/jamcha-aa/SCP/blob/master/articles/250.md][SCP-L-250]] - Wizard's Gramophone
-  - [[https://github.com/jamcha-aa/SCP/blob/master/articles/263.md][SCP-L-263]] - The Smile
-  - [[https://github.com/jamcha-aa/SCP/blob/master/articles/310.md][SCP-L-310]] - Bankrupt
-  - [[https://github.com/jamcha-aa/SCP/blob/master/articles/369.md][SCP-L-369]] - Sleeping Beauty
-  - [[https://github.com/jamcha-aa/SCP/blob/master/articles/403.md][SCP-L-403]] - Not Illegal Murder
-  - [[https://github.com/jamcha-aa/SCP/blob/master/articles/700.md][SCP-L-700]] - Fixed Snooze
-  - [[https://github.com/jamcha-aa/SCP/blob/master/articles/704.md][SCP-L-704]] - Flying Chili Pepper
-  - [[https://github.com/jamcha-aa/SCP/blob/master/articles/777.md][SCP-L-777]] - Give me it with a .zip
-  - [[https://github.com/jamcha-aa/SCP/blob/master/articles/954.md][SCP-L-954]] - Neglected Broadcasting
-  - [[https://github.com/jamcha-aa/SCP/blob/master/articles/1001.md][SCP-L-1001]] - Towel
-  - [[https://github.com/jamcha-aa/SCP/blob/master/articles/1010.md][SCP-L-1010]] - Toilet
-  - [[https://github.com/jamcha-aa/SCP/blob/master/articles/1729.md][SCP-L-1729]] - The lower half
-  - [[https://github.com/jamcha-aa/SCP/blob/master/articles/1984.md][SCP-L-1984]] - The Mist
-  - [[https://github.com/jamcha-aa/SCP/blob/master/articles/2000.md][SCP-L-2000]] - Door
+
+  [[https://jamcha-aa.gitbooks.io/scp/content/]]
 
 ** License
   Copyright (c) 2017 jamcha (jamcha.aa@gmail.com).
