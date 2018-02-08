@@ -6,7 +6,7 @@
   [[https://jamcha-aa.gitbooks.io/scp/content/]]
 
 ** License
-  Copyright (c) 2017 jamcha (jamcha.aa@gmail.com).
+  Copyright (c) 2017-2018 jamcha (jamcha.aa@gmail.com).
 
   All documents in this repository by jamcha are licensed under the [[http://creativecommons.org/licenses/by-sa/4.0/deed][License Creative Commons Attribution Share Alike 4.0 International]]
 

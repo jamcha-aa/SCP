@@ -4,7 +4,7 @@
 
 ## License
 
-Copyright (c) 2017 jamcha (jamcha.aa@gmail.com).  
+Copyright (c) 2017-2018 jamcha (jamcha.aa@gmail.com).  
 
 All documents in this repository by jamcha are licensed under the [License Creative Commons Attribution Share Alike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/deed)  
 
