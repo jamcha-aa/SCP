@@ -6,6 +6,10 @@
   [[https://jamcha-aa.gitbooks.io/scp/content/]]
 
   <br>
+
+  画面左上の「≡」で目次の表示/非表示，「A」でフォントサイズやテーマの切り替えができます。
+
+  <br>
   <br>
 
   Copyright (c) 2017-2018 jamcha (jamcha.aa@gmail.com).
