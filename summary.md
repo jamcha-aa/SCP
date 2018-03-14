@@ -13,6 +13,7 @@
 -   [SCP-L-090: - Intrepid Daikon](/articles/090.md)
 -   [SCP-L-098: - Pee-C](/articles/098.md)
 -   [SCP-L-100: - Oden](/articles/100.md)
+-   [SCP-L-103: - Writetime Respect](/articles/103.md)
 -   [SCP-L-130: - Unplugged Word](/articles/130.md)
 -   [SCP-L-180: - Flipped Shoes](/articles/180.md)
 -   [SCP-L-250: - Wizard's Gramophone](/articles/250.md)
