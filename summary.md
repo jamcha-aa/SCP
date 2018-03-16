@@ -7,6 +7,7 @@
 -   [SCP-L-033: - Font Typo-T](/articles/033.md)
 -   [SCP-L-036: - Milk Can](/articles/036.md)
 -   [SCP-L-044: - Nasty Snail](/articles/044.md)
+-   [SCP-L-053: - Fire-fly](/articles/053.md)
 -   [SCP-L-061: - Mosquito](/articles/061.md)
 -   [SCP-L-065: - ECMeat](/articles/065.md)
 -   [SCP-L-066: - Juicy Kelp](/articles/066.md)
