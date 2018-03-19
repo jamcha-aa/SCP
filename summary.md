@@ -17,6 +17,7 @@
 -   [SCP-L-103: - Writetime Respect](/articles/103.md)
 -   [SCP-L-130: - Unplugged Word](/articles/130.md)
 -   [SCP-L-180: - Flipped Shoes](/articles/180.md)
+-   [SCP-L-227: - Memorial to the Throne](/articles/227.md)
 -   [SCP-L-250: - Wizard's Gramophone](/articles/250.md)
 -   [SCP-L-263: - The Smile](/articles/263.md)
 -   [SCP-L-310: - Bankrupt](/articles/310.md)
