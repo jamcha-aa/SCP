@@ -22,6 +22,7 @@
 -   [SCP-L-250: - Wizard's Gramophone](/articles/250.md)
 -   [SCP-L-263: - The Smile](/articles/263.md)
 -   [SCP-L-310: - Bankrupt](/articles/310.md)
+-   [SCP-L-324: - 6:20](/articles/324.md)
 -   [SCP-L-369: - Sleeping Beauty](/articles/369.md)
 -   [SCP-L-403: - Not Illegal Murder](/articles/403.md)
 -   [SCP-L-639: - please help we.](/articles/639.md)
