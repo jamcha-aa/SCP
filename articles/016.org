@@ -1,0 +1,29 @@
+#+OPTIONS: toc:nil
+#+OPTIONS: \n:t
+
+* SCP-L-016
+
+  *アイテム番号*: SCP-L-016
+
+  <br>
+
+  *オブジェクトクラス*: Euclid
+
+  <br>
+
+  *特別収容プロトコル*: 取り扱いの際は素手で触れないようにしてください。
+
+  <br>
+
+  *説明*: SCP-L-016は████社が開発していた点火装置です。形状は一般的なライターに酷似していますが，使用者の腸内にあるガスを燃料とします。モニター調査において，出力が不安定なことや，屋内で頻繁に火事の原因になったこと，事故後に使用者が周囲の人物に揶揄されたことなどが原因で製品化は見送られました。
+
+
+
+  <br>
+  <br>
+
+  この文章はフィクションであり，実在の人物・団体とは一切関係ありません。
+
+  Copyright (c) 2018 jamcha (jamcha.aa@gmail.com).
+
+  [[http://creativecommons.org/licenses/by-sa/4.0/deed][file:http://i.creativecommons.org/l/by-sa/4.0/88x31.png]]
