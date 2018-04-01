@@ -7,7 +7,7 @@
 
   <br>
 
-  *オブジェクトクラス*: Euclid
+  *オブジェクトクラス*: +Euclid+ Neutralized
 
   <br>
 
