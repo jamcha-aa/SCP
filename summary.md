@@ -30,6 +30,7 @@
 -   [SCP-L-700: - Fixed Snooze](/articles/700.md)
 -   [SCP-L-704: - Flying Chili Pepper](/articles/704.md)
 -   [SCP-L-777: - Give me it with a .zip](/articles/777.md)
+-   [SCP-L-888: - Infernal Cleaner](/articles/888.md)
 -   [SCP-L-954: - Neglected Broadcasting](/articles/954.md)
 -   [SCP-L-1001: - Towel](/articles/1001.md)
 -   [SCP-L-1010: - Toilet](/articles/1010.md)
