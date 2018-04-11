@@ -1,6 +1,7 @@
 * [SCP風オブジェクト集: index](README.md)
 
 -   [SCP-L-005: - Crash](/articles/005.md)
+-   [SCP-L-005: - Plate](/articles/009.md)
 -   [SCP-L-011: - Gel](/articles/011.md)
 -   [SCP-L-016: - Gas Lighter](/articles/016.md)
 -   [SCP-L-022: - Diary](/articles/022.md)
