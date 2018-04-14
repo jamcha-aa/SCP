@@ -19,6 +19,7 @@
 -   [SCP-L-100: - Oden](/articles/100.md)
 -   [SCP-L-103: - Writetime Respect](/articles/103.md)
 -   [SCP-L-130: - Unplugged Word](/articles/130.md)
+-   [SCP-L-168: - README.die](/articles/168.md)
 -   [SCP-L-180: - Flipped Shoes](/articles/180.md)
 -   [SCP-L-208: - Lab Notebook](/articles/208.md)
 -   [SCP-L-227: - Memorial to the Throne](/articles/227.md)
