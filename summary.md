@@ -1,4 +1,4 @@
-* [SCP風オブジェクト集: index](README.md)
+* [SCP風オブジェクト集](README.md)
 
 -   [SCP-L-005: - Crash](/articles/005.md)
 -   [SCP-L-009: - Plate](/articles/009.md)
