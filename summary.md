@@ -23,7 +23,7 @@
 -   [SCP-L-168: - README.die](/articles/168.md)
 -   [SCP-L-180: - Flipped Shoes](/articles/180.md)
 -   [SCP-L-208: - Lab Notebook](/articles/208.md)
--   [SCP-L-223: - Meandring Orange](/articles/223.md)
+-   [SCP-L-223: - Meandering Orange](/articles/223.md)
 -   [SCP-L-227: - Memorial to the Throne](/articles/227.md)
 -   [SCP-L-250: - Wizard's Gramophone](/articles/250.md)
 -   [SCP-L-263: - The Smile](/articles/263.md)
