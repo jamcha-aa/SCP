@@ -35,6 +35,7 @@
 -   [SCP-L-324: - 6:20](/articles/324.md)
 -   [SCP-L-369: - Sleeping Beauty](/articles/369.md)
 -   [SCP-L-403: - Not Illegal Murder](/articles/403.md)
+-   [SCP-L-623: - Loquat](/articles/623.md)
 -   [SCP-L-639: - please help we.](/articles/639.md)
 -   [SCP-L-700: - Fixed Snooze](/articles/700.md)
 -   [SCP-L-704: - Flying Chili Pepper](/articles/704.md)
