@@ -45,6 +45,7 @@
 -   [SCP-L-1001: - Towel](/articles/1001.md)
 -   [SCP-L-1010: - Toilet](/articles/1010.md)
 -   [SCP-L-1729: - The lower half](/articles/1729.md)
+-   [SCP-L-1914: - Iron Boots](/articles/1914.md)
 -   [SCP-L-1984: - The Mist](/articles/1984.md)
 -   [SCP-L-2000: - Door](/articles/2000.md)
 -   [SCP-L-6130: - Printer](/articles/6130.md)
