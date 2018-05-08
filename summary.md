@@ -39,6 +39,7 @@
 -   [SCP-L-639: - please help we.](/articles/639.md)
 -   [SCP-L-700: - Fixed Snooze](/articles/700.md)
 -   [SCP-L-704: - Flying Chili Pepper](/articles/704.md)
+-   [SCP-L-733: - Holy Picture](/articles/733.md)
 -   [SCP-L-777: - Give me it with a .zip](/articles/777.md)
 -   [SCP-L-888: - Infernal Cleaner](/articles/888.md)
 -   [SCP-L-954: - Neglected Broadcasting](/articles/954.md)
