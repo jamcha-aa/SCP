@@ -27,7 +27,7 @@
 
   <br>
   <br>
-  事例1は https://twitter.com/plantypal/status/926891076966903808， http://www.classicfm.com/composers/beethoven/guides/deaf-hearing-loss-composing/ をもとに改変。
+  事例1は https://twitter.com/plantypal/status/926891076966903808， https://www.classicfm.com/composers/beethoven/guides/deaf-hearing-loss-composing/ をもとに改変。
 
   事例2は加藤知子『おまけの海藤家』を改変。
 
@@ -36,4 +36,4 @@
 
   Copyright (c) 2018 jamcha (jamcha.aa@gmail.com).
 
-  ![[http://i.creativecommons.org/l/by-sa/4.0/88x31.png][cc by-sa]]
+  ![[https://i.creativecommons.org/l/by-sa/4.0/88x31.png][cc by-sa]]
