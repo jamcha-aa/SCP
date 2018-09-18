@@ -5,6 +5,7 @@
 -   [SCP-L-009: Plate](009.md)
 -   [SCP-L-010: Plus One](010.md)
 -   [SCP-L-011: Gel](011.md)
+-   [SCP-L-012: The Hair](012.md)
 -   [SCP-L-016: Gas Lighter](016.md)
 -   [SCP-L-022: Diary](022.md)
 -   [SCP-L-024: Glasses](024.md)
