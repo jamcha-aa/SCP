@@ -1,4 +1,4 @@
-* [SCP風オブジェクト集](README.md)
+* [SCP 風オブジェクト集](README.md)
 
 -   [SCP-L-002: Knocker](002.md)
 -   [SCP-L-005: Crash](005.md)
@@ -24,6 +24,7 @@
 -   [SCP-L-100: Oden](100.md)
 -   [SCP-L-103: Writetime Respect](103.md)
 -   [SCP-L-130: Unplugged Word](130.md)
+-   [SCP-L-154: Carnivore Furniture](154.md)
 -   [SCP-L-165: Float Island](165.md)
 -   [SCP-L-168: README.die](168.md)
 -   [SCP-L-180: Flipped Shoes](180.md)
