@@ -24,6 +24,7 @@
 -   [SCP-L-098: Pee-C](098.md)
 -   [SCP-L-100: Oden](100.md)
 -   [SCP-L-103: Writetime Respect](103.md)
+-   [SCP-L-116: Pond](116.md)
 -   [SCP-L-130: Unplugged Word](130.md)
 -   [SCP-L-154: Carnivore Furniture](154.md)
 -   [SCP-L-165: Float Island](165.md)
