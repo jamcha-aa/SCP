@@ -43,6 +43,7 @@
 -   [SCP-L-403: Not Illegal Murder](403.md)
 -   [SCP-L-623: Loquat](623.md)
 -   [SCP-L-639: please help we.](639.md)
+-   [SCP-L-651: Take this.](651.md)
 -   [SCP-L-700: Fixed Snooze](700.md)
 -   [SCP-L-704: Flying Chili Pepper](704.md)
 -   [SCP-L-733: Holy Picture](733.md)
