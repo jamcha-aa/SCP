@@ -2,6 +2,7 @@
 
 -   [SCP-L-002: Knocker](002.md)
 -   [SCP-L-005: Crash](005.md)
+-   [SCP-L-008: Sticky Skin](008.md)
 -   [SCP-L-009: Plate](009.md)
 -   [SCP-L-010: Plus One](010.md)
 -   [SCP-L-011: Gel](011.md)
