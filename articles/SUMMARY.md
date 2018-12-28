@@ -21,6 +21,7 @@
 -   [SCP-L-061: Mosquito](061.md)
 -   [SCP-L-065: ECMeat](065.md)
 -   [SCP-L-066: Juicy Kelp](066.md)
+-   [SCP-L-075: Granited Brain](075.md)
 -   [SCP-L-090: Intrepid Daikon](090.md)
 -   [SCP-L-098: Pee-C](098.md)
 -   [SCP-L-100: Oden](100.md)
