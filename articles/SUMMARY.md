@@ -50,6 +50,7 @@
 -   [SCP-L-704: Flying Chili Pepper](704.md)
 -   [SCP-L-733: Holy Picture](733.md)
 -   [SCP-L-777: Give me it with a .zip](777.md)
+-   [SCP-L-790: Inverted One](790.md)
 -   [SCP-L-888: Infernal Cleaner](888.md)
 -   [SCP-L-954: Neglected Broadcasting](954.md)
 -   [SCP-L-1001: Towel](1001.md)
