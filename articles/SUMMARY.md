@@ -43,6 +43,7 @@
 -   [SCP-L-330: Stop Sign](330.md)
 -   [SCP-L-369: Sleeping Beauty](369.md)
 -   [SCP-L-403: Not Illegal Murder](403.md)
+-   [SCP-L-562: Downburst](562.md)
 -   [SCP-L-623: Loquat](623.md)
 -   [SCP-L-639: please help we.](639.md)
 -   [SCP-L-651: Take this.](651.md)
