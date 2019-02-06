@@ -1,25 +1,28 @@
 #+OPTIONS: toc:nil
 #+OPTIONS: \n:t
 
-* SCP風オブジェクト集
+* SCP 風オブジェクト集
 
-  [[https://jamcha-aa.github.io/SCP/]]
+  ![[./img/scpl.png][logo]]
 
   <br>
+
   画面左上の「≡」で目次の表示/非表示ができます。
 
-  <br>
   <br>
 
   [[https://jamcha-aa.github.io/About/][作品一覧]]
 
-  [[https://github.com/jamcha-aa/SCP][GitHubリポジトリ]]
+  [[https://github.com/jamcha-aa/SCP][GitHub リポジトリ]]
 
   <br>
-  <br>
-  Copyright (c) 2017-2018 jamcha (jamcha.aa@gmail.com).
+
+  Copyright (c) 2017-2019 jamcha (jamcha.aa@gmail.com).
 
   Every document in this repository is licensed under the [[https://creativecommons.org/licenses/by-sa/4.0/deed][License Creative Commons Attribution Share Alike 4.0 International]]
 
   ![[https://i.creativecommons.org/l/by-sa/4.0/88x31.png][cc by-sa]]
 
+  [[http://spacemacs.org][file:https://cdn.rawgit.com/syl20bnr/spacemacs/442d025779da2f62fc86c2082703697714db6514/assets/spacemacs-badge.svg]]
+
+  Published with [[https://github.com/rust-lang-nursery/mdBook][mdBook]]

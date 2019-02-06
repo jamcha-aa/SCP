@@ -1,0 +1,8 @@
+[book]
+authors = ["jamcha"]
+multilingual = false
+src = "articles"
+title = "SCP-L-???"
+
+[build]
+build-dir = "docs"

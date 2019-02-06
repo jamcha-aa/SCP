@@ -1,1055 +1,217 @@
-
 <!DOCTYPE HTML>
-<html lang="" >
+<html lang="en" class="sidebar-visible no-js">
     <head>
+        <!-- Book generated using mdBook -->
         <meta charset="UTF-8">
+        <title>SCP-L-777: Give me it with a .zip - SCP-L-???</title>
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>SCP-L-777: Give me it with a .zip · GitBook</title>
-        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
-        <meta name="generator" content="GitBook 3.2.3">
-        
-        
-        
-    
-    <link rel="stylesheet" href="gitbook/style.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
 
-    
-            
-                
-                <link rel="stylesheet" href="gitbook/gitbook-plugin-back-to-top-button/plugin.css">
-                
-            
-                
-                <link rel="stylesheet" href="gitbook/gitbook-plugin-highlight/website.css">
-                
-            
-                
-                <link rel="stylesheet" href="gitbook/gitbook-plugin-search/search.css">
-                
-            
-                
-                <link rel="stylesheet" href="gitbook/gitbook-plugin-fontsettings/website.css">
-                
-            
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:500" rel="stylesheet" type="text/css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
         
 
-    
-
-    
         
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-
-        
-    
-    
-    <meta name="HandheldFriendly" content="true"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black">
-    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="gitbook/images/apple-touch-icon-precomposed-152.png">
-    <link rel="shortcut icon" href="gitbook/images/favicon.ico" type="image/x-icon">
-
-    
-    <link rel="next" href="790.html" />
-    
-    
-    <link rel="prev" href="733.html" />
-    
-
     </head>
-    <body>
-        
-<div class="book">
-    <div class="book-summary">
-        
-            
-<div id="book-search-input" role="search">
-    <input type="text" placeholder="Type to search" />
-</div>
+    <body class="light">
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = "light";
+        </script>
 
-            
-                <nav role="navigation">
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { } 
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            document.body.className = theme;
+            document.querySelector('html').className = theme + ' js';
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <ol class="chapter"><li class="affix"><a href="index.html">SCP 風オブジェクト集</a></li><li class="affix"><a href="001.html">SCP-L-001: L Translator</a></li><li class="affix"><a href="002.html">SCP-L-002: Knocker</a></li><li class="affix"><a href="005.html">SCP-L-005: Crash</a></li><li class="affix"><a href="008.html">SCP-L-008: Sticky Skin</a></li><li class="affix"><a href="009.html">SCP-L-009: Plate</a></li><li class="affix"><a href="010.html">SCP-L-010: Plus One</a></li><li class="affix"><a href="011.html">SCP-L-011: Gel</a></li><li class="affix"><a href="012.html">SCP-L-012: The Hair</a></li><li class="affix"><a href="016.html">SCP-L-016: Gas Lighter</a></li><li class="affix"><a href="022.html">SCP-L-022: Diary</a></li><li class="affix"><a href="024.html">SCP-L-024: Glasses</a></li><li class="affix"><a href="033.html">SCP-L-033: Font Typo-T</a></li><li class="affix"><a href="036.html">SCP-L-036: Milk Can</a></li><li class="affix"><a href="038.html">SCP-L-038: Low-fat Bacon</a></li><li class="affix"><a href="041.html">SCP-L-041: Fridge</a></li><li class="affix"><a href="044.html">SCP-L-044: Nasty Snail</a></li><li class="affix"><a href="053.html">SCP-L-053: Fire-fly</a></li><li class="affix"><a href="054.html">SCP-L-054: WA-NNA-BE</a></li><li class="affix"><a href="055.html">SCP-L-055: Release me</a></li><li class="affix"><a href="061.html">SCP-L-061: Mosquito</a></li><li class="affix"><a href="065.html">SCP-L-065: ECMeat</a></li><li class="affix"><a href="066.html">SCP-L-066: Juicy Kelp</a></li><li class="affix"><a href="075.html">SCP-L-075: Granited Brain</a></li><li class="affix"><a href="090.html">SCP-L-090: Intrepid Daikon</a></li><li class="affix"><a href="098.html">SCP-L-098: Pee-C</a></li><li class="affix"><a href="100.html">SCP-L-100: Oden</a></li><li class="affix"><a href="103.html">SCP-L-103: Writetime Respect</a></li><li class="affix"><a href="116.html">SCP-L-116: Pond</a></li><li class="affix"><a href="130.html">SCP-L-130: Unplugged Word</a></li><li class="affix"><a href="154.html">SCP-L-154: Carnivore Furniture</a></li><li class="affix"><a href="165.html">SCP-L-165: Float Island</a></li><li class="affix"><a href="168.html">SCP-L-168: README.die</a></li><li class="affix"><a href="180.html">SCP-L-180: Flipped Shoes</a></li><li class="affix"><a href="208.html">SCP-L-208: Lab Notebook</a></li><li class="affix"><a href="223.html">SCP-L-223: Meandering Orange</a></li><li class="affix"><a href="227.html">SCP-L-227: Memorial to the Throne</a></li><li class="affix"><a href="250.html">SCP-L-250: Wizard's Gramophone</a></li><li class="affix"><a href="263.html">SCP-L-263: The Smile</a></li><li class="affix"><a href="310.html">SCP-L-310: Bankrupt</a></li><li class="affix"><a href="315.html">SCP-L-315: Magnet Snow</a></li><li class="affix"><a href="324.html">SCP-L-324: 6:20</a></li><li class="affix"><a href="330.html">SCP-L-330: Stop Sign</a></li><li class="affix"><a href="369.html">SCP-L-369: Sleeping Beauty</a></li><li class="affix"><a href="403.html">SCP-L-403: Not Illegal Murder</a></li><li class="affix"><a href="562.html">SCP-L-562: Downburst</a></li><li class="affix"><a href="623.html">SCP-L-623: Loquat</a></li><li class="affix"><a href="639.html">SCP-L-639: please help we.</a></li><li class="affix"><a href="651.html">SCP-L-651: Take this.</a></li><li class="affix"><a href="700.html">SCP-L-700: Fixed Snooze</a></li><li class="affix"><a href="704.html">SCP-L-704: Flying Chili Pepper</a></li><li class="affix"><a href="733.html">SCP-L-733: Holy Picture</a></li><li class="affix"><a href="777.html" class="active">SCP-L-777: Give me it with a .zip</a></li><li class="affix"><a href="790.html">SCP-L-790: Inverted One</a></li><li class="affix"><a href="888.html">SCP-L-888: Infernal Cleaner</a></li><li class="affix"><a href="954.html">SCP-L-954: Neglected Broadcasting</a></li><li class="affix"><a href="1001.html">SCP-L-1001: Towel</a></li><li class="affix"><a href="1010.html">SCP-L-1010: Toilet</a></li><li class="affix"><a href="1677.html">SCP-L-1677: Crawling Cat</a></li><li class="affix"><a href="1729.html">SCP-L-1729: The lower half</a></li><li class="affix"><a href="1914.html">SCP-L-1914: Iron Boots</a></li><li class="affix"><a href="1984.html">SCP-L-1984: The Mist</a></li><li class="affix"><a href="2000.html">SCP-L-2000: Door</a></li><li class="affix"><a href="6130.html">SCP-L-6130: Printer</a></li></ol>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
                 
-
-
-<ul class="summary">
-    
-    
-
-    
-
-    
-        
-        
-    
-        <li class="chapter " data-level="1.1" data-path="./">
-            
-                <a href="./">
-            
-                    
-                    SCP 風オブジェクト集
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.2" data-path="002.html">
-            
-                <a href="002.html">
-            
-                    
-                    SCP-L-002: Knocker
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.3" data-path="005.html">
-            
-                <a href="005.html">
-            
-                    
-                    SCP-L-005: Crash
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.4" data-path="008.html">
-            
-                <a href="008.html">
-            
-                    
-                    SCP-L-008: Sticky Skin
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.5" data-path="009.html">
-            
-                <a href="009.html">
-            
-                    
-                    SCP-L-009: Plate
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.6" data-path="010.html">
-            
-                <a href="010.html">
-            
-                    
-                    SCP-L-010: Plus One
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.7" data-path="011.html">
-            
-                <a href="011.html">
-            
-                    
-                    SCP-L-011: Gel
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.8" data-path="012.html">
-            
-                <a href="012.html">
-            
-                    
-                    SCP-L-012: The Hair
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.9" data-path="016.html">
-            
-                <a href="016.html">
-            
-                    
-                    SCP-L-016: Gas Lighter
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.10" data-path="022.html">
-            
-                <a href="022.html">
-            
-                    
-                    SCP-L-022: Diary
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.11" data-path="024.html">
-            
-                <a href="024.html">
-            
-                    
-                    SCP-L-024: Glasses
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.12" data-path="033.html">
-            
-                <a href="033.html">
-            
-                    
-                    SCP-L-033: Font Typo-T
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.13" data-path="036.html">
-            
-                <a href="036.html">
-            
-                    
-                    SCP-L-036: Milk Can
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.14" data-path="038.html">
-            
-                <a href="038.html">
-            
-                    
-                    SCP-L-038: Low-fat Bacon
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.15" data-path="041.html">
-            
-                <a href="041.html">
-            
-                    
-                    SCP-L-041: Fridge
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.16" data-path="044.html">
-            
-                <a href="044.html">
-            
-                    
-                    SCP-L-044: Nasty Snail
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.17" data-path="053.html">
-            
-                <a href="053.html">
-            
-                    
-                    SCP-L-053: Fire-fly
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.18" data-path="054.html">
-            
-                <a href="054.html">
-            
-                    
-                    SCP-L-054: WA-NNA-BE
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.19" data-path="055.html">
-            
-                <a href="055.html">
-            
-                    
-                    SCP-L-055: Release me
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.20" data-path="061.html">
-            
-                <a href="061.html">
-            
-                    
-                    SCP-L-061: Mosquito
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.21" data-path="065.html">
-            
-                <a href="065.html">
-            
-                    
-                    SCP-L-065: ECMeat
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.22" data-path="066.html">
-            
-                <a href="066.html">
-            
-                    
-                    SCP-L-066: Juicy Kelp
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.23" data-path="075.html">
-            
-                <a href="075.html">
-            
-                    
-                    SCP-L-075: Granited Brain
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.24" data-path="090.html">
-            
-                <a href="090.html">
-            
-                    
-                    SCP-L-090: Intrepid Daikon
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.25" data-path="098.html">
-            
-                <a href="098.html">
-            
-                    
-                    SCP-L-098: Pee-C
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.26" data-path="100.html">
-            
-                <a href="100.html">
-            
-                    
-                    SCP-L-100: Oden
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.27" data-path="103.html">
-            
-                <a href="103.html">
-            
-                    
-                    SCP-L-103: Writetime Respect
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.28" data-path="116.html">
-            
-                <a href="116.html">
-            
-                    
-                    SCP-L-116: Pond
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.29" data-path="130.html">
-            
-                <a href="130.html">
-            
-                    
-                    SCP-L-130: Unplugged Word
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.30" data-path="154.html">
-            
-                <a href="154.html">
-            
-                    
-                    SCP-L-154: Carnivore Furniture
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.31" data-path="165.html">
-            
-                <a href="165.html">
-            
-                    
-                    SCP-L-165: Float Island
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.32" data-path="168.html">
-            
-                <a href="168.html">
-            
-                    
-                    SCP-L-168: README.die
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.33" data-path="180.html">
-            
-                <a href="180.html">
-            
-                    
-                    SCP-L-180: Flipped Shoes
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.34" data-path="208.html">
-            
-                <a href="208.html">
-            
-                    
-                    SCP-L-208: Lab Notebook
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.35" data-path="223.html">
-            
-                <a href="223.html">
-            
-                    
-                    SCP-L-223: Meandering Orange
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.36" data-path="227.html">
-            
-                <a href="227.html">
-            
-                    
-                    SCP-L-227: Memorial to the Throne
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.37" data-path="250.html">
-            
-                <a href="250.html">
-            
-                    
-                    SCP-L-250: Wizard's Gramophone
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.38" data-path="263.html">
-            
-                <a href="263.html">
-            
-                    
-                    SCP-L-263: The Smile
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.39" data-path="310.html">
-            
-                <a href="310.html">
-            
-                    
-                    SCP-L-310: Bankrupt
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.40" data-path="315.html">
-            
-                <a href="315.html">
-            
-                    
-                    SCP-L-315: Magnet Snow
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.41" data-path="324.html">
-            
-                <a href="324.html">
-            
-                    
-                    SCP-L-324: 6:20
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.42" data-path="330.html">
-            
-                <a href="330.html">
-            
-                    
-                    SCP-L-330: Stop Sign
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.43" data-path="369.html">
-            
-                <a href="369.html">
-            
-                    
-                    SCP-L-369: Sleeping Beauty
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.44" data-path="403.html">
-            
-                <a href="403.html">
-            
-                    
-                    SCP-L-403: Not Illegal Murder
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.45" data-path="562.html">
-            
-                <a href="562.html">
-            
-                    
-                    SCP-L-562: Downburst
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.46" data-path="623.html">
-            
-                <a href="623.html">
-            
-                    
-                    SCP-L-623: Loquat
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.47" data-path="639.html">
-            
-                <a href="639.html">
-            
-                    
-                    SCP-L-639: please help we.
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.48" data-path="651.html">
-            
-                <a href="651.html">
-            
-                    
-                    SCP-L-651: Take this.
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.49" data-path="700.html">
-            
-                <a href="700.html">
-            
-                    
-                    SCP-L-700: Fixed Snooze
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.50" data-path="704.html">
-            
-                <a href="704.html">
-            
-                    
-                    SCP-L-704: Flying Chili Pepper
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.51" data-path="733.html">
-            
-                <a href="733.html">
-            
-                    
-                    SCP-L-733: Holy Picture
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter active" data-level="1.52" data-path="777.html">
-            
-                <a href="777.html">
-            
-                    
-                    SCP-L-777: Give me it with a .zip
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.53" data-path="790.html">
-            
-                <a href="790.html">
-            
-                    
-                    SCP-L-790: Inverted One
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.54" data-path="888.html">
-            
-                <a href="888.html">
-            
-                    
-                    SCP-L-888: Infernal Cleaner
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.55" data-path="954.html">
-            
-                <a href="954.html">
-            
-                    
-                    SCP-L-954: Neglected Broadcasting
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.56" data-path="1001.html">
-            
-                <a href="1001.html">
-            
-                    
-                    SCP-L-1001: Towel
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.57" data-path="1010.html">
-            
-                <a href="1010.html">
-            
-                    
-                    SCP-L-1010: Toilet
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.58" data-path="1677.html">
-            
-                <a href="1677.html">
-            
-                    
-                    SCP-L-1677: Crawling Cat
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.59" data-path="1729.html">
-            
-                <a href="1729.html">
-            
-                    
-                    SCP-L-1729: The lower half
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.60" data-path="1914.html">
-            
-                <a href="1914.html">
-            
-                    
-                    SCP-L-1914: Iron Boots
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.61" data-path="1984.html">
-            
-                <a href="1984.html">
-            
-                    
-                    SCP-L-1984: The Mist
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.62" data-path="2000.html">
-            
-                <a href="2000.html">
-            
-                    
-                    SCP-L-2000: Door
-            
-                </a>
-            
-
-            
-        </li>
-    
-        <li class="chapter " data-level="1.63" data-path="6130.html">
-            
-                <a href="6130.html">
-            
-                    
-                    SCP-L-6130: Printer
-            
-                </a>
-            
-
-            
-        </li>
-    
-
-    
-
-    <li class="divider"></li>
-
-    <li>
-        <a href="https://www.gitbook.com" target="blank" class="gitbook-link">
-            Published with GitBook
-        </a>
-    </li>
-</ul>
-
-
-                </nav>
-            
-        
-    </div>
-
-    <div class="book-body">
-        
-            <div class="body-inner">
-                
-                    
-
-<div class="book-header" role="navigation">
-    
-
-    <!-- Title -->
-    <h1>
-        <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href="." >SCP-L-777: Give me it with a .zip</a>
-    </h1>
-</div>
-
-
-
-
-                    <div class="page-wrapper" tabindex="-1" role="main">
-                        <div class="page-inner">
+                <div id="menu-bar" class="menu-bar">
+                    <div id="menu-bar-sticky-container">
+                        <div class="left-buttons">
+                            <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                                <i class="fa fa-bars"></i>
+                            </button>
+                            <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                                <i class="fa fa-paint-brush"></i>
+                            </button>
+                            <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                                <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                                <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                                <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                                <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                                <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                            </ul>
                             
-<div id="book-search-results">
-    <div class="search-noresults">
-    
-                                <section class="normal markdown-section">
-                                
-                                <h1 id="scp-l-777">SCP-L-777</h1>
-<p><strong>&#x30A2;&#x30A4;&#x30C6;&#x30E0;&#x756A;&#x53F7;</strong>: SCP-L-777  </p>
-<p><br>  </p>
-<p><strong>&#x30AA;&#x30D6;&#x30B8;&#x30A7;&#x30AF;&#x30C8;&#x30AF;&#x30E9;&#x30B9;</strong>: Safe  </p>
-<p><br>  </p>
-<p><strong>&#x7279;&#x5225;&#x53CE;&#x5BB9;&#x30D7;&#x30ED;&#x30C8;&#x30B3;&#x30EB;</strong>: &#x305D;&#x306E;&#x5168;&#x5BB9;&#x306F;&#x628A;&#x63E1;&#x3055;&#x308C;&#x3066;&#x3044;&#x306A;&#x3044;&#x305F;&#x3081;&#xFF0C;&#x53CE;&#x5BB9;&#x306E;&#x76EE;&#x51E6;&#x306F;&#x305F;&#x3063;&#x3066;&#x3044;&#x307E;&#x305B;&#x3093;&#x3002;  </p>
-<p><br>  </p>
-<p><strong>&#x8AAC;&#x660E;</strong>: SCP-L-777&#x306F;&#x5727;&#x7E2E;&#x3055;&#x308C;&#x305F;&#x30C7;&#x30FC;&#x30BF;&#x30A2;&#x30FC;&#x30AB;&#x30A4;&#x30D6;&#x3067;&#xFF0C;&#x30DE;&#x30B8;&#x30C3;&#x30AF;&#x30CA;&#x30F3;&#x30D0;&#x30FC;&#x304B;&#x3089;zip&#x307E;&#x305F;&#x306F;&#x305D;&#x308C;&#x306B;&#x985E;&#x3059;&#x308B;&#x5F62;&#x5F0F;&#x3067;&#x3042;&#x308B;&#x3053;&#x3068;&#x304C;&#x63A8;&#x5BDF;&#x3055;&#x308C;&#x307E;&#x3059;&#x3002;&#x305D;&#x306E;&#x30C7;&#x30FC;&#x30BF;&#x91CF;&#x306F;&#x5B87;&#x5B99;&#x306B;&#x304A;&#x3051;&#x308B;&#x5168;&#x8CEA;&#x91CF;&#x306E;&#x534A;&#x5206;&#x4EE5;&#x4E0A;&#x3092;&#x5360;&#x3081;&#x308B;&#x3068;&#x3055;&#x308C;&#xFF0C;&#x73FE;&#x5728;&#x3082;&#x89E3;&#x6790;&#x4F5C;&#x696D;&#x304C;&#x884C;&#x308F;&#x308C;&#x3066;&#x3044;&#x307E;&#x3059;&#x3002;  </p>
-<p>SCP-L-777&#x306E;&#x5B58;&#x5728;&#xFF0C;&#x304A;&#x3088;&#x3073;&#x30C1;&#x30A7;&#x30C3;&#x30AF;&#x30B5;&#x30E0;&#x306F;&#xFF0C;zip&#x898F;&#x683C;&#x304C;&#x767B;&#x5834;&#x3059;&#x308B;&#x4EE5;&#x524D;&#x306E;1977&#x5E74;&#x306B;&#x96FB;&#x6CE2;&#x671B;&#x9060;&#x93E1;&#x3067;&#x53D7;&#x4FE1;&#x3055;&#x308C;&#x307E;&#x3057;&#x305F;&#x3002;SCP-L-777&#x306E;&#x5168;&#x5BB9;&#x306F;&#x672A;&#x3060;&#x89E3;&#x660E;&#x3055;&#x308C;&#x3066;&#x3044;&#x306A;&#x3044;&#x305F;&#x3081;&#xFF0C;&#x3053;&#x306E;&#x30CF;&#x30C3;&#x30B7;&#x30E5;&#x5024;&#x304C;&#x6B63;&#x5E38;&#x306B;&#x6A5F;&#x80FD;&#x3059;&#x308B;&#x306E;&#x304B;&#x306F;&#x4E0D;&#x660E;&#x3067;&#x3059;&#x3002;&#x305F;&#x3060;&#x3057;&#xFF0C;&#x3053;&#x308C;&#x307B;&#x3069;&#x5DE8;&#x5927;&#x306A;&#x30C7;&#x30FC;&#x30BF;&#x306B;&#x30C1;&#x30A7;&#x30C3;&#x30AF;&#x30B5;&#x30E0;&#x304C;&#x4ED8;&#x4E0E;&#x3055;&#x308C;&#x3066;&#x3044;&#x308B;&#x3068;&#x3044;&#x3046;&#x3053;&#x3068;&#x306F;&#xFF0C;SCP-L-777&#x3092;&#x6539;&#x7AC4;&#x3057;&#x6D41;&#x901A;&#x3055;&#x305B;&#x3088;&#x3046;&#x3068;&#x3059;&#x308B;&#x4F55;&#x304B;&#x304C;&#x5B58;&#x5728;&#x3059;&#x308B;&#x53EF;&#x80FD;&#x6027;&#x3092;&#x793A;&#x5506;&#x3057;&#x307E;&#x3059;&#x3002;  </p>
-<p><br><br><br><br>&#x3053;&#x306E;&#x6587;&#x7AE0;&#x306F;&#x30D5;&#x30A3;&#x30AF;&#x30B7;&#x30E7;&#x30F3;&#x3067;&#x3042;&#x308A;&#xFF0C;&#x5B9F;&#x5728;&#x306E;&#x4EBA;&#x7269;&#x30FB;&#x56E3;&#x4F53;&#x3068;&#x306F;&#x4E00;&#x5207;&#x95A2;&#x4FC2;&#x3042;&#x308A;&#x307E;&#x305B;&#x3093;&#x3002;  </p>
-<p>Copyright (c) 2017 jamcha (jamcha.aa@gmail.com).  </p>
-<p><img src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" alt="cc by-sa">  </p>
-
-                                
-                                </section>
+                            <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                                <i class="fa fa-search"></i>
+                            </button>
                             
-    </div>
-    <div class="search-results">
-        <div class="has-results">
-            
-            <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
-            <ul class="search-results-list"></ul>
-            
-        </div>
-        <div class="no-results">
-            
-            <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
-            
-        </div>
-    </div>
-</div>
+                        </div>
 
+                        <h1 class="menu-title">SCP-L-???</h1> 
+
+                        <div class="right-buttons">
+                            <a href="print.html" title="Print this book" aria-label="Print this book">
+                                <i id="print-button" class="fa fa-print"></i>
+                            </a>
+                            
                         </div>
                     </div>
+                </div>
+
                 
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <a class="header" href="#scp-l-777" id="scp-l-777"><h1>SCP-L-777</h1></a>
+<p><strong>アイテム番号</strong>: SCP-L-777</p>
+<p><br></p>
+<p><strong>オブジェクトクラス</strong>: Safe</p>
+<p><br></p>
+<p><strong>特別収容プロトコル</strong>: その全容は把握されていないため，収容の目処はたっていません。</p>
+<p><br></p>
+<p><strong>説明</strong>: SCP-L-777は圧縮されたデータアーカイブで，マジックナンバーからzipまたはそれに類する形式であることが推察されます。そのデータ量は宇宙における全質量の半分以上を占めるとされ，現在も解析作業が行われています。</p>
+<p>SCP-L-777の存在，およびチェックサムは，zip規格が登場する以前の1977年に電波望遠鏡で受信されました。SCP-L-777の全容は未だ解明されていないため，このハッシュ値が正常に機能するのかは不明です。ただし，これほど巨大なデータにチェックサムが付与されているということは，SCP-L-777を改竄し流通させようとする何かが存在する可能性を示唆します。</p>
+<p><br><br />
+<br><br />
+この文章はフィクションであり，実在の人物・団体とは一切関係ありません。</p>
+<p>Copyright (c) 2017 jamcha (jamcha.aa@gmail.com).</p>
+<p><img src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" alt="cc by-sa" /></p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        
+                            <a rel="prev" href="733.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+
+                        
+                            <a rel="next" href="790.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
             </div>
 
-            
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
                 
-                <a href="733.html" class="navigation navigation-prev " aria-label="Previous page: SCP-L-733: Holy Picture">
-                    <i class="fa fa-angle-left"></i>
-                </a>
+                    <a href="733.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
                 
-                
-                <a href="790.html" class="navigation navigation-next " aria-label="Next page: SCP-L-790: Inverted One">
-                    <i class="fa fa-angle-right"></i>
-                </a>
-                
-            
-        
-    </div>
 
-    <script>
-        var gitbook = gitbook || [];
-        gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"SCP-L-777: Give me it with a .zip","level":"1.52","depth":1,"next":{"title":"SCP-L-790: Inverted One","level":"1.53","depth":1,"path":"790.md","ref":"790.md","articles":[]},"previous":{"title":"SCP-L-733: Holy Picture","level":"1.51","depth":1,"path":"733.md","ref":"733.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["back-to-top-button"],"pluginsConfig":{"back-to-top-button":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"777.md","mtime":"2018-12-28T17:20:26.050Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2019-01-23T01:17:17.411Z"},"basePath":".","book":{"language":""}});
-        });
-    </script>
-</div>
+                
+                    <a href="790.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                
+            </nav>
+
+        </div>
 
         
-    <script src="gitbook/gitbook.js"></script>
-    <script src="gitbook/theme.js"></script>
-    
+
         
-        <script src="gitbook/gitbook-plugin-back-to-top-button/plugin.js"></script>
+
         
-    
+
         
-        <script src="gitbook/gitbook-plugin-search/search-engine.js"></script>
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
         
-    
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
         
-        <script src="gitbook/gitbook-plugin-search/search.js"></script>
+
         
-    
-        
-        <script src="gitbook/gitbook-plugin-lunr/lunr.min.js"></script>
-        
-    
-        
-        <script src="gitbook/gitbook-plugin-lunr/search-lunr.js"></script>
-        
-    
-        
-        <script src="gitbook/gitbook-plugin-sharing/buttons.js"></script>
-        
-    
-        
-        <script src="gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
-        
-    
 
     </body>
 </html>
-
