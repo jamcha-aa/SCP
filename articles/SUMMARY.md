@@ -18,6 +18,7 @@
 [SCP-L-038: Low-fat Bacon](./038.md)
 [SCP-L-041: Fridge](./041.md)
 [SCP-L-044: Nasty Snail](./044.md)
+[SCP-L-047: Bomb Popping](./047.md)
 [SCP-L-053: Fire-fly](./053.md)
 [SCP-L-054: WA-NNA-BE](./054.md)
 [SCP-L-055: Release me](./055.md)
