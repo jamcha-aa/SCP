@@ -45,6 +45,7 @@
 [SCP-L-315: Magnet Snow](./315.md)
 [SCP-L-324: 6:20](./324.md)
 [SCP-L-330: Stop Sign](./330.md)
+[SCP-L-333: Blue Butterfly](./333.md)
 [SCP-L-369: Sleeping Beauty](./369.md)
 [SCP-L-403: Not Illegal Murder](./403.md)
 [SCP-L-562: Downburst](./562.md)
