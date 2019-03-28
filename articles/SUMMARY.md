@@ -27,6 +27,7 @@
 [SCP-L-066: Juicy Kelp](./066.md)
 [SCP-L-075: Granited Brain](./075.md)
 [SCP-L-090: Intrepid Daikon](./090.md)
+[SCP-L-092: Something will happen](./092.md)
 [SCP-L-098: Pee-C](./098.md)
 [SCP-L-100: Oden](./100.md)
 [SCP-L-103: Writetime Respect](./103.md)
